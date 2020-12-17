@@ -1,4 +1,4 @@
-# Covid Economic Factors Analysis
+# Covid - Economic Factors Analysis
 
 #### How to Use
 
@@ -13,3 +13,9 @@ https://colab.research.google.com/
 When viewed, each notebook has a button "Open in Colab" at the top.
 
 Click this button to open each respective notebook in Google Colab.
+
+#### Files
+
+| File | Description |
+
+Covid_Stock.ipynb - A standalone file containing all the code for Covid - Economic Factors analysis
